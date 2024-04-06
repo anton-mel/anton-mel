@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I'm Anton, an undergraduate student at Yale University from Ukraine. I am majoring in Computer Science with a System Programming track, as well as taking Data Science and Japanese Certificates. My coursework is built on core CS, operating systems (CPSC 323), artificial intelligence, proof-based algorithms (CPSC 365), databases design. Beyond software development, I am takign Research Methods in Astrophysics (PHYS 295, ASTR 330), which invloved Python scientific package writing. I am also part of Technology & Research Scholars (STARS) at Yale, and intend to do research in asteroseismology with Computer Vision algorithms the following semester. I primarily work with these stack/skills: Python, Rust, C, C++, Algorithms, Full Stack Development (WEB, Mobile). I quickly adapt to new technologies and am always eager to learn something new! In fact, I am also a guitar player and have a small [YouTube channel](https://www.youtube.com/watch?v=1WgWeCgFUMQ) where I occasionally post performances and arrangements.
+I'm Anton, an undergraduate student at Yale University from Ukraine. I am majoring in Computer Science with a System Programming track, as well as taking Data Science and Japanese Certificates.
 
 My favourite projects:
