@@ -1,3 +1,1 @@
-### Hi there 👋
-
-I'm Anton, an undergraduate student at Yale University from Ukraine. I am majoring in Computer Science with a System Programming and Computer Vision tracks, as well as taking Japanese Language Certificate.
+Hi, I am a rising junior at Yale University from Ukraine, studying Computer Systems Design. Currently I focus on OS development, embedded systems, computer vision, and drones. Previously a musician and guitarist, I have a small YouTube channel for my covers and arrangements. You can download my Resume via [link].
