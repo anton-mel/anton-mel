@@ -2,6 +2,5 @@ Hi, I am a rising junior at Yale University from Ukraine, studying Computer Syst
 
 -----
 <img src="https://komarev.com/ghpvc/?username=anton-mel&style=flat-square&color=blue" alt=""/></img>
-[![wakatime](https://wakatime.com/badge/user/280c7358-d8a9-44aa-81b1-ee89e6499271.svg)](https://wakatime.com/@280c7358-d8a9-44aa-81b1-ee89e6499271)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anton-mel&theme=dark&show_icons=true)
