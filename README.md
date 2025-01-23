@@ -4,5 +4,5 @@ Hi, I am a rising junior at Yale University from Ukraine, studying systems desig
 
 Email: anton.melnychuk@yale.edu <br>
 Matrix: @an.tony:matrix.org <br>
-PGP: 4761ECDDC5CCC90BD358773C168630462D227233 <br>
+GPG: 4761ECDDC5CCC90BD358773C168630462D227233 <br>
 GitLab: [https://github.com/anton-mel](https://gitlab.com/anton-mel)
