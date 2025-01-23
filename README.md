@@ -2,7 +2,7 @@ Hi, I am a rising junior at Yale University from Ukraine, studying systems desig
 
 <img src="https://komarev.com/ghpvc/?username=anton-mel&style=flat-square&color=blue" alt=""/></img>
 
-Email: anton.melnychuk@yale.edu \\
-Matrix: @an.tony:matrix.org \\
-PGP: 4761ECDDC5CCC90BD358773C168630462D227233 \\
+Email: anton.melnychuk@yale.edu <br>
+Matrix: @an.tony:matrix.org <br>
+PGP: 4761ECDDC5CCC90BD358773C168630462D227233 <br>
 GitLab: [https://github.com/anton-mel](https://gitlab.com/anton-mel)
