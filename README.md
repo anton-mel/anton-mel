@@ -1,4 +1,4 @@
-Hi, I am a rising junior at Yale University from Ukraine, studying Electrical Engineering and Computer Science. Currently, I am conducting research at the Efficient Computing. Talk to me on Element: https://matrix.to/#/@an.tony:matrix.org.
+Hi, I am a rising junior at Yale University from Ukraine, studying Electrical Engineering and Computer Science. Currently, I am conducting research at the Efficient Computing Lab. Talk to me on Element: https://matrix.to/#/@an.tony:matrix.org.
 
 <img src="https://komarev.com/ghpvc/?username=anton-mel&style=flat-square&color=blue" alt=""/></img>
 
