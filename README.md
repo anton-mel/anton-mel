@@ -1,4 +1,4 @@
-Hi, I am a rising senior at Yale University, studying Electrical Engineering and Computer Science. I grew up chasing grasshoppers in a small farming village in Ukraine. Currently, I conduct research at the Efficient Computing Lab. I spend a lot of time studying Japanese language, culture, and history. Talk to me on Element: https://matrix.to/#/@an.tony:matrix.org.
+Hi, I am a rising senior at Yale University, studying Electrical Engineering and Computer Science. I grew up chasing grasshoppers in a small farming village in Ukraine. Currently, I conduct research at the Efficient Computing Lab. I spend a lot of time composing on guitar or studying Japanese language, culture, and history. Talk to me on Element: https://matrix.to/#/@an.tony:matrix.org.
 
 <img src="https://komarev.com/ghpvc/?username=anton-mel&style=flat-square&color=blue" alt=""/></img>
 
