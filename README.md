@@ -1,4 +1,4 @@
-Hi, I am a rising senior at Yale University, studying Electrical Engineering and Computer Science. Currently I conduct SoC FPGA research at the Efficient Computing Lab. I spend a lot of time composing on guitar or studying Japanese.
+Hi, I am a rising senior at Yale University, studying Electrical Engineering and Computer Science. Currently I conduct SoC FPGA research at the Efficient Computing Lab. In my free time, I enjoy composing on guitar or studying Japanese.
 
 <img src="https://komarev.com/ghpvc/?username=anton-mel&style=flat-square&color=blue" alt=""/></img>
 
