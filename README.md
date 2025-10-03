@@ -1,3 +1,5 @@
+![Banner](./github_banner.png)
+
 Hi, I am a rising senior at Yale University, studying Electrical Engineering and Computer Science. Currently I work on FPGA research at the Efficient Computing Lab. In my free time, I enjoy composing on guitar or studying Chinese/Japanese.
 
 <img src="https://komarev.com/ghpvc/?username=anton-mel&style=flat-square&color=blue" alt=""/></img>
