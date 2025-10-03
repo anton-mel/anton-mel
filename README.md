@@ -1,6 +1,6 @@
 ![Banner](./github_banner.png)
 
-Hi, I am a senior at Yale majoring in Electrical Engineering & Computer Science. I am most excited about R&D, particularly in accelerating system infras. I am currently working at the Efficient Computing Lab. In my free time, I enjoy composing on guitar or studying Chinese/Japanese.
+Hi, I am a senior at Yale majoring in Electrical Engineering & Computer Science (EECS). I am most excited about R&D, particularly in accelerating system infras. I am currently working at the Efficient Computing Lab. In my free time, I enjoy composing on guitar or studying Chinese/Japanese.
 
 <img src="https://komarev.com/ghpvc/?username=anton-mel&style=flat-square&color=blue" alt=""/></img>
 
