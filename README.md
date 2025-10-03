@@ -1,6 +1,7 @@
 ![Banner](./github_banner.png)
 
-I am most excited about systems infrastructure R&D. Topics include: ASIC (VLSI), FPGA Emulation, Kernel/Driver Dev, Distributed Systems.
+I am most excited about systems infrastructure R&D. <br>
+Topics include: ASIC (VLSI), FPGA Emulation, Kernel/Driver Dev, Distributed Systems.
 
 <img src="https://komarev.com/ghpvc/?username=anton-mel&style=flat-square&color=blue" alt=""/></img>
 
