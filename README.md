@@ -6,4 +6,3 @@ Hi, I am a senior at Yale majoring in Electrical Engineering & Computer Science 
 
 Email: anton.melnychuk@yale.edu <br>
 Matrix: [@an.tony:matrix.org](https://matrix.to/#/@an.tony:matrix.org) <br>
-Website: https://anton-mel.github.io/ <br>
