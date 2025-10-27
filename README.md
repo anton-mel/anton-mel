@@ -1,4 +1,4 @@
-# ![Banner](./github_banner.png)
+<!-- ![Banner](./github_banner.png) -->
 
 I am most excited about system infrastructures. <br>
 Topics include: ASIC, FPGA, Kernel/Driver Dev, Distributed Systems.
