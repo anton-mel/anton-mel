@@ -1,6 +1,6 @@
 ![Banner](./github_banner.png)
 
-I am most excited about system infrastructures. <br>
+I am most excited about system infrastructure research. <br>
 Topics include: ASIC, FPGA, Kernel/Driver Dev, Distributed Systems.
 
 <img src="https://komarev.com/ghpvc/?username=anton-mel&style=flat-square&color=blue" alt=""/></img>
