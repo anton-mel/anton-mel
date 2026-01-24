@@ -1,9 +1,7 @@
-![Banner](./github_banner.png)
-
 I am most excited about system infrastructure research. <br>
 Topics include: ASIC, FPGA, Kernel/Driver Dev, Distributed Systems.
 
-<!-- <img src="https://komarev.com/ghpvc/?username=anton-mel&style=flat-square&color=blue" alt=""/></img> -->
+<img src="https://komarev.com/ghpvc/?username=anton-mel&style=flat-square&color=blue" alt=""/></img>
 
 Email: anton.melnychuk@yale.edu <br>
 Matrix: [@an.tony:matrix.org](https://matrix.to/#/@an.tony:matrix.org) <br>
