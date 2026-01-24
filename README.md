@@ -1,4 +1,4 @@
-I am most excited about system infrastructure research. <br>
+I am most excited about system infra research. <br>
 Topics include: ASIC, FPGA, Kernel/Driver Dev, Distributed Systems.
 
 <img src="https://komarev.com/ghpvc/?username=anton-mel&style=flat-square&color=blue" alt=""/></img>
